@@ -1,5 +1,6 @@
 aniso8601==9.0.1
 appdirs==1.4.3
+apturl==0.5.2
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 arviz==0.12.0
@@ -12,7 +13,7 @@ bcrypt==3.1.7
 beautifulsoup4==4.11.1
 bleach==5.0.0
 blinker==1.4
-Brlapi
+Brlapi==0.7.0
 cachetools==5.0.0
 certifi==2019.11.28
 cffi==1.15.0
@@ -184,4 +185,3 @@ wrapt==1.14.0
 xarray==2022.3.0
 xkit==0.0.0
 zipp==3.8.0
-uwsgi
